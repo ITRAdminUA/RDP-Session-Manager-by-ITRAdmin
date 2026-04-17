@@ -1,6 +1,6 @@
 # RDP Session Manager by ITRAdmin
 
-<img width="1107" height="616" alt="image" src="https://github.com/user-attachments/assets/5f5520bb-e241-4b6c-82f2-51afeea91860" />
+<img width="1107" height="616" alt="image" src="https://github.com/user-attachments/assets/5c0a0f1b-b846-4c07-8c88-29d39381bcc9" />
 
 
 Simple GUI tool for managing Remote Desktop (RDP) sessions on Windows
